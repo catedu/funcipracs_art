@@ -4,7 +4,6 @@
 
 ## Módulo 1 - Didáctica específica
 
-* [Didáctica específica](modulo_1_-_didactica_especifica.md)
 * [Introducción](introduccion.md)
 * [Didáctica](didactica.md)
 * [Didáctica Específica](didactica_especifica/README.md)
