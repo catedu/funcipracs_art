@@ -11,7 +11,6 @@
   * [Estudio Cotidiano](didactica_especifica/estudio_cotidiano.md)
   * [CONCLUSIÓN](didactica_especifica/conclusion.md)
   * [BIBLIOGRAFÍA](didactica_especifica/bibliografia.md)
-  
 
 ## MÓDULO 2: Documentación educativa.
 
@@ -25,7 +24,7 @@
   * [Documentos anuales: Programación General Anual y Memoria Final](modulo-2-documentacion-educativa/documentos-institucionales-del-centro/documentos-anuales-programacion-general-anual-y-memoria-final.md)
 * [Reflexiones finales](modulo-2-documentacion-educativa/reflexiones-finales.md)
 * [Bibliografía](modulo-2-documentacion-educativa/bibliografia.md)
-* [Créditos M1](modulo-2-documentacion-educativa/creditos.md)
+* [Créditos M2](modulo-2-documentacion-educativa/creditos.md)
 
 ## MÓDULO 3: Comunidad educativa.
 
@@ -62,6 +61,4 @@
 ---
 
 * [Créditos](creditos.md)
-
-
 
