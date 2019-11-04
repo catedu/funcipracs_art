@@ -9,6 +9,10 @@
 * [Didáctica Específica](didactica_especifica/README.md)
   * [Aprendizaje](didactica_especifica/aprendizaje.md)
   * [Estudio Cotidiano](didactica_especifica/estudio_cotidiano.md)
+    * [ASPECTO TÉCNICO](didactica_especifica/estudio_cotidiano/aspecto-tecnico.md)
+    * [ASPECTO ANALÍTICO](didactica_especifica/estudio_cotidiano/aspecto-analitico.md)
+    * [ASPECTO EMOCIONAL](didactica_especifica/estudio_cotidiano/aspecto-emocional.md)
+    * [EVALUACIÓN](didactica_especifica/estudio_cotidiano/evaluacion.md)
   * [CONCLUSIÓN](didactica_especifica/conclusion.md)
   * [BIBLIOGRAFÍA](didactica_especifica/bibliografia.md)
 
