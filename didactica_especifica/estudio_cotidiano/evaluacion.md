@@ -1,4 +1,4 @@
-### LA EVALUACIÓN {#la-evaluaci-n}
+### Evaluación {#la-evaluaci-n}
 
 La evaluación en la clase de instrumento es continua. Desde una perspectiva psicológica el profesor de conservatorio tiene mucho poder sobre el alumno que realiza su interpretación y su estudio.
 

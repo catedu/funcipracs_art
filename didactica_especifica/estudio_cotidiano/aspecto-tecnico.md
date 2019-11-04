@@ -1,4 +1,4 @@
-### ASPECTO TÉCNICO {#aspecto-t-cnico}
+### Aspecto Técnico
 
 Al abordar el estudio de una partitura, el alumno se enfrenta a nuevos retos. La técnica le sirve como herramienta para expresar sus emociones. Mejorar su capacidad técnica le servirá para crear y no para impresionar con el virtuosismo.
 

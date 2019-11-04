@@ -1,4 +1,4 @@
-### ASPECTO EMOCIONAL {#aspecto-emocional}
+### Aspecto Emocional {#aspecto-emocional}
 
 Uno de los elementos principales dentro del esquema enseñanza-aprendizaje es la Motivación.
 

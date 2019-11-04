@@ -1,4 +1,4 @@
-### ASPECTO ANALÍTICO {#aspecto-anal-tico}
+### Aspecto Analítico {#aspecto-anal-tico}
 
 En el aspecto analítico es muy importante la utilización de los conocimientos adquiridos en las asignaturas como Lenguaje Musical, Análisis. A partir de este estudio los alumnos  construyen significados, de la música, sus atributos  y sintaxis, del contexto del que provienen las formas, los autores y la exploración de las fuentes, de acuerdo al nivel en que se encuentra el alumnado.
 
