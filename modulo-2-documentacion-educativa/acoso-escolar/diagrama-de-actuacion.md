@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/Curso-de-funcionarios-en-pr-cticas.git/modulo-2-documentacion-educativa/acoso-escolar/principios-que-debe-garantizar-el-centro-educativo.md" %}
+{% include "git+https://github.com/catedu/Curso-de-funcionarios-en-pr-cticas.git/modulo-2-documentacion-educativa/acoso-escolar/diagrama-de-actuacion.md" %}
