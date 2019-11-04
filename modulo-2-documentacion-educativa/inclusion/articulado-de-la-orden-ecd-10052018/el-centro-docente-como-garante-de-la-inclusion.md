@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/Curso-de-funcionarios-en-pr-cticas.git/modulo-2-documentacion-educativa/inclusion/articulado-de-la-orden-ecd-10052018/el-centro-docente-como-garante-de-la-inclusion.md" %}
