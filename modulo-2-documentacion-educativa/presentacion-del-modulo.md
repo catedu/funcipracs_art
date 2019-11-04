@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/curso-para-funcionarios-en-practicas/modulo-2-documentacion-educativa/presentacion-del-modulo.md" %}  
+{% include "git+https://github.com/catedu/curso-para-funcionarios-en-practicas.git/modulo-2-documentacion-educativa/presentacion-del-modulo.md" %}  
