@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/Curso-de-funcionarios-en-pr-cticas.git/modulo-2-documentacion-educativa/acoso-escolar/secuencia-de-las-actuaciones-responsables-plazos-y-documentacion-a-cumplimentar.md" %}
+{% include "git+https://github.com/catedu/Curso-de-funcionarios-en-pr-cticas.git/modulo-2-documentacion-educativa/secuencia-de-las-actuaciones-responsables-plazos-y-documentacion-a-cumplimentar.md" %}
