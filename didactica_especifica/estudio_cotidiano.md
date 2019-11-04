@@ -2,7 +2,7 @@
 
 Existen tres aspectos fundamentales en el estudio cotidiano desde el cual el alumno se relaciona con la obra que desea tocar:
 
-![](images/image9.png)
+![](/images/image9.png)
 
 ### ASPECTO TÉCNICO {#aspecto-t-cnico}
 
@@ -28,7 +28,7 @@ Como indica Ferguson (1980), llevar a cabo un conocimiento equilibrado, una did�
 
 Existen cuatro bases fundamentales para el estudio cotidiano de un instrumento:
 
-![](images/image2.png)
+![](/images/image2.png)
 
 El entrenamiento de la relajación de los músculos para poder ejecutar e interpretar con naturalidad
 
@@ -78,7 +78,7 @@ La memorización comienza en el momento del estudio de una obra a través del an
 
 Existen distintos tipos de memoria que se activan en el transcurso de una interpretación.
 
-![](images/image8.png)
+![](/images/image8.png)
 
 Muscular: Se entrena a través de la digitación escogida en el momento que el alumno comienza a estudiar una partitura, y le sirve para automatizar los movimientos.
 
@@ -98,7 +98,7 @@ Si el estudio cotidiano ha sido detallado, analizado y concienciado profundament
 
 De todos modos hay alumnos que requieren de estrategias para poder memorizar una partitura. Estas estrategias, guiadas por el profesor, otorgarán el resultado deseado al alumno.
 
-![](images/image3.png)
+![](/images/image3.png)
 
 Hay que tener especial cuidado con la repetición, ya que se puede caer en el error de la repetición No Inteligente, en la que el alumno toca sin tener conciencia de los que está haciendo, un automatismo sin sentido. Lo interesante de esta repetición es memorizar de diferentes maneras los pasajes (cantando, con oído interno, con o sin partitura), para poder recordarlos.
 
@@ -156,7 +156,7 @@ Uno de los elementos principales dentro del esquema enseñanza-aprendizaje es la
 
 La Motivación incita a aprender al alumno, quien aprende lo que realmente le interesa. Motivar es despertar el interés y la atención de los alumnos y los valores contenidos en las asignaturas que son:
 
-![](images/image7.png)
+![](/images/image7.png)
 
 Motivar es irrumpir en el psiquismo las fuentes de energía interior y encauzarlo.
 

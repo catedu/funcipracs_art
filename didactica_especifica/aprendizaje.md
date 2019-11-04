@@ -8,7 +8,7 @@ El proceso de aprendizaje parte de un todo indiferente (Noción global). Cada pa
 
 Es decir que el proceso es trifásico:
 
-![](images/image4.png)
+![](/images/image4.png)
 
 1-   Contacto global con el objeto: percepción inicial, excluye los componentes
 
@@ -30,19 +30,19 @@ El objetivo principal en la didáctica específica es lograr la interacción inm
 
 El Plan de trabajo se desarrolla en los distintos contenidos:
 
-![](images/image5.png)
+![](/images/image5.png)
 
 De acuerdo al esquema anterior se analizarán los diferentes contenidos:
 
-                    Las funciones cerebrales a través de las conexiones neurológicas y el desarrollo de los hemisferios
+ Las funciones cerebrales a través de las conexiones neurológicas y el desarrollo de los hemisferios
 
-                    La comprensión del lenguaje a través de la ejecución del mismo.
+La comprensión del lenguaje a través de la ejecución del mismo.
 
-                    El desarrollo de las habilidades a través del desarrollo psico-motor.
+ El desarrollo de las habilidades a través del desarrollo psico-motor.
 
-                    El análisis para estimular la interpretación musical y conectar las diferentes funciones musicales.
+ El análisis para estimular la interpretación musical y conectar las diferentes funciones musicales.
 
-                    Primeramente, para ejercer una labor docente pedagógico-didáctico correcta, debemos saber ¿Cómo funciona el cerebro?
+Primeramente, para ejercer una labor docente pedagógico-didáctico correcta, debemos saber ¿Cómo funciona el cerebro?
 
 Si bien la neurociencia ha avanzado mucho en los últimos años, todavía falta tiempo para saber cómo funciona el cerebro exactamente.
 

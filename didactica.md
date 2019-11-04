@@ -2,11 +2,11 @@
 
 Dentro de la Ciencia de la Educación propiamente dicha, se encuentra la didáctica que es el acto educativo.
 
-         La Didáctica es la disciplina pedagógica de carácter práctico y operativo. Dentro del ámbito de la Didáctica existen dos bimonios:
+La Didáctica es la disciplina pedagógica de carácter práctico y operativo. Dentro del ámbito de la Didáctica existen dos bimonios:
 
 ![](images/image1.png)
 
-1-      Binomio humano:    El educando: aprende (factor decisivo)
+1-Binomio humano:    El educando: aprende (factor decisivo)
 
 El educador: enseña y orienta
 
