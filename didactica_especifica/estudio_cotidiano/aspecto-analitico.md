@@ -20,6 +20,8 @@ Es decir que todos los conocimientos que posea el alumno proveniente de la inter
 
 
 
+
+
 MEMORIZACIÓN
 
 La memorización es una función psíquica por la que almacenamos información y para que ésta no decaiga se requiere la repetición.
@@ -70,8 +72,6 @@ Es conveniente comenzar el estudio con una obra de dificultad media ya que se ne
 Cada alumno encontrará su ritual para concentrarse.
 
 El verdadero objetivo del profesor será el de ayudar al alumno a encontrar su ritual, proporcionarle las herramientas necesarias para encontrar su propia personalidad en el momento de interpretar una obra y pueda transmitir un mensaje.
-
-
 
 EDUCACIÓN AUDITIVA
 
