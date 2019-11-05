@@ -73,6 +73,8 @@ El verdadero objetivo del profesor será el de ayudar al alumno a encontrar su r
 
 EDUCACIÓN AUDITIVA
 
+El entrenamiento auditivo, a través del canto y la asignatura lenguaje musical.
+
 La educación auditiva tiene como objetivo  desarrollar el oído de los alumnos, la audición interna y externa. Ese desarrollo se realizará a lo largo del estudio académico para llegar a alcanzar esa audición interna tanto armónica como polifónica en las partituras que estudie.
 
 Dependiendo de la edad, madurez y nivel académico de los alumnos se realizan diferentes ejercicios.
