@@ -18,6 +18,10 @@ El estudio cotidiano basado en el aspecto analítico es exigente pero muy eficaz
 
 Es decir que todos los conocimientos que posea el alumno proveniente de la interrelación de asignaturas como lenguaje, análisis, historia, etc, le servirán como herramientas para el beneficio de su interpretación.
 
+
+
+MEMORIZACIÓN
+
 La memorización es una función psíquica por la que almacenamos información y para que ésta no decaiga se requiere la repetición.
 
 El hecho de memorizar depende del instrumento y de la situación. Para tocar como integrantes de un grupo de cámara o en una banda u orquesta sinfónica no se requiere la memorización. Pero hay momentos en que los instrumentistas se ven obligados a tocar de memoria de acuerdo a las circunstancias, como por ejemplo como solistas.
@@ -32,17 +36,12 @@ Existen distintos tipos de memoria que se activan en el transcurso de una interp
 
 ![](/images/image8.png)
 
-Muscular: Se entrena a través de la digitación escogida en el momento que el alumno comienza a estudiar una partitura, y le sirve para automatizar los movimientos.
-
-Auditiva: Se educa a través de ejercicios para desarrollar el oído interno y externo. Estos ejercicios son ejercitados en la asignatura Lenguaje Musical. Gracias a ello, el alumno puede oír internamente melodías y armonías de la obra que está estudiando. Si el alumno es capaz de reproducir en su mente los sonidos antes de realizarlos, evitará los fallos.
-
-Analítica: se insiste sobre este aspecto que es una herramienta fundamental  ya que sirve de soporte para el resto de las memorias. Es la más sólida, ya que permite al alumno la utilización de los conocimientos adquiridos en otras asignaturas y encontrar allí la correlación entre todas.
-
-Visual: también llamada fotográfica, en la que el alumno no solo hace una fotografía mental de la partitura sino también de la posición de sus manos en el instrumento.
-
-Verbal: consiste en la verbalización de las notas mientras se ejecutan y otro ingrediente que ayuda es la memorización de las notas con ritmos que está fundamentada en el automatismo muscular.
-
-Emocional: es donde se recoge la interpretación, es el último peldaño y la que determina la forma de comportamiento afectivo.
+* Muscular: Se entrena a través de la digitación escogida en el momento que el alumno comienza a estudiar una partitura, y le sirve para automatizar los movimientos.
+* Auditiva: Se educa a través de ejercicios para desarrollar el oído interno y externo. Estos ejercicios son ejercitados en la asignatura Lenguaje Musical. Gracias a ello, el alumno puede oír internamente melodías y armonías de la obra que está estudiando. Si el alumno es capaz de reproducir en su mente los sonidos antes de realizarlos, evitará los fallos.
+* Analítica: se insiste sobre este aspecto que es una herramienta fundamental  ya que sirve de soporte para el resto de las memorias. Es la más sólida, ya que permite al alumno la utilización de los conocimientos adquiridos en otras asignaturas y encontrar allí la correlación entre todas.
+* Visual: también llamada fotográfica, en la que el alumno no solo hace una fotografía mental de la partitura sino también de la posición de sus manos en el instrumento.
+* Verbal: consiste en la verbalización de las notas mientras se ejecutan y otro ingrediente que ayuda es la memorización de las notas con ritmos que está fundamentada en el automatismo muscular.
+* Emocional: es donde se recoge la interpretación, es el último peldaño y la que determina la forma de comportamiento afectivo.
 
 Existe una posibilidad de memorización sin instrumento, en la que se activa la escucha interna, para ella se requiere una máxima concentración.
 
@@ -71,6 +70,10 @@ Es conveniente comenzar el estudio con una obra de dificultad media ya que se ne
 Cada alumno encontrará su ritual para concentrarse.
 
 El verdadero objetivo del profesor será el de ayudar al alumno a encontrar su ritual, proporcionarle las herramientas necesarias para encontrar su propia personalidad en el momento de interpretar una obra y pueda transmitir un mensaje.
+
+
+
+EDUCACIÓN AUDITIVA
 
 La educación auditiva tiene como objetivo  desarrollar el oído de los alumnos, la audición interna y externa. Ese desarrollo se realizará a lo largo del estudio académico para llegar a alcanzar esa audición interna tanto armónica como polifónica en las partituras que estudie.
 
