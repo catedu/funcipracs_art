@@ -18,11 +18,9 @@ El estudio cotidiano basado en el aspecto analítico es exigente pero muy eficaz
 
 Es decir que todos los conocimientos que posea el alumno proveniente de la interrelación de asignaturas como lenguaje, análisis, historia, etc, le servirán como herramientas para el beneficio de su interpretación.
 
-
-
-
-
 MEMORIZACIÓN
+
+El entrenamiento de la memoria a través de la reflexión, la meditación lógica y sistemática.
 
 La memorización es una función psíquica por la que almacenamos información y para que ésta no decaiga se requiere la repetición.
 
