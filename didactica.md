@@ -4,24 +4,18 @@ Dentro de la Ciencia de la Educación propiamente dicha, se encuentra** la didá
 
 La Didáctica es la **disciplina pedagógica de carácter práctico y operativo**. Dentro del ámbito de la Didáctica existen dos bimonios:
 
-
-
 ![](images/image1.png)
 
-
-
-**1-Binomio humano:**    
+**1-Binomio humano:**
 
 * El educando: aprende \(factor decisivo\)
 * El educador: enseña y orienta
 
-**2- Binomio cultural: **       
+**2- Binomio cultural: **
 
-*  La asignatura: que sirve al alumno
+* La asignatura: que sirve al alumno
 
 * El método: que favorece al aprendizaje
-
-
 
 En un principio** el alumno** aprende imitando al profesor, desde sus movimientos hasta en el sonido, dependiendo de la madurez del alumno. Es decir,   comienza con un desarrollo psico-motriz, luego asimila los conocimientos que le otorga el profesor mediante un aprendizaje significativo y por último utiliza las dos primeras fases para llegar a interpretar.
 
@@ -30,8 +24,6 @@ En un principio** el alumno** aprende imitando al profesor, desde sus movimiento
 **La asignatura **se encuentra inmersa dentro de un Currículo de grado y generalmente responde a una guía docente donde existen unas normas y contenidos a las que el profesor debe sujetarse.
 
 En cuanto a **la metodología**, por lo general en los conservatorios no existe una metodología específica instrumental sino que cada profesor se guía por sus propias experiencias, cómo aprendió él, o eventualmente alguno investiga sobre la pedagogía y la didáctica de su instrumento. Hay determinados instrumentos que poseen métodos para hacer escalas, arpegios, etc que son consultados por algunos profesores, pero no siempre sucede así.
-
-
 
 **Objetivo principal**:
 
@@ -42,13 +34,10 @@ El objetivo es el resultado consciente, previsto y deseado como producto del apr
 
 **Categorías de Objetivos:**
 
-* Habilidades, destrezas, hábitos.
-* Actitudes
-* Conocimientos
+* **Habilidades, destrezas, hábitos**: Las habilidades específicas, las destrezas \(como tocar un instrumento\) y los hábitos físicos, mental, moral y social se encuentran dentro de los automatismos.
+* **Conocimientos**: Dentro de los cognoscitivos encontramos el Conocimiento que es lo esencial y necesario partiendo de hechos concretos.
 
-Las habilidades específicas, las destrezas \(como tocar un instrumento\) y los hábitos físicos, mental, moral y social se encuentran dentro de los automatismos.
+* **Actitudes: **Y de base afectiva, son los ideales.
 
-Dentro de los cognoscitivos encontramos el Conocimiento que es lo esencial y necesario partiendo de hechos concretos.
 
-Y de base afectiva, son los ideales.
 
