@@ -1,24 +1,12 @@
 ### Aspecto Analítico {#aspecto-anal-tico}
 
-En el aspecto analítico es muy importante la utilización de los conocimientos adquiridos en las asignaturas como Lenguaje Musical, Análisis. A partir de este estudio los alumnos  construyen significados, de la música, sus atributos  y sintaxis, del contexto del que provienen las formas, los autores y la exploración de las fuentes, de acuerdo al nivel en que se encuentra el alumnado.
+En el aspecto analítico es muy importante la utilización de los conocimientos adquiridos en las asignaturas como Lenguaje Musical y Análisis. A partir de este estudio el alumnado construye significados de la música, sus atributos  y sintaxis y del contexto del que provienen las formas, los autores y la exploración de las fuentes, de acuerdo al nivel en que se encuentra el alumnado. “Independientemente de lo minuciosa que sea nuestra investigación de la obra, no lograremos comprenderla completamente si no somos conscientes del lugar que ocupa entre las demás composiciones de su autor. Además necesitaremos también situarla en su contexto histórico y estilístico”. \(Berman, 2010: 161\).
 
-“Independientemente de lo minuciosa que sea nuestra investigación de la obra, no lograremos comprenderla completamente si no somos conscientes del lugar que ocupa entre las demás composiciones de su autor. Además necesitaremos también situarla en su contexto histórico y estilístico”. \(Berman, 2010: 161\).
+El análisis es una herramienta muy importante para la orientación en el estudio cotidiano, lo que permite descubrir cada partitura. El desconocimiento de estos temas, el análisis como herramienta, en ocasiones carece de importancia para algunos docentes de instrumento, ya que argumentan que las estructuras y el análisis formal se alejan de la musicalidad. Sin embargo hay grandes pedagogos e investigadores que opinan todo lo contrario. Gregorio Simkin \(1983\), es partidario del conocimiento armónico, contrapunto, etc. y opina que facilita la labor creativa. Por otro lado, Susanne Langer \(1966\), considera que el concepto forma equivale a estructura y al modo en que se reúne el conjunto. Al hablar de forma en la ejecución instrumental se refiere a cómo organizar temporalmente la sucesión de eventos que conforman una obra. Para Eleanor Stubley \(1992\) resulta necesario establecer estrategias metodológicas donde se exponga al alumnado a sus propias intenciones, las que configurarán la guía de posibles realizaciones. Para ella las interpretaciones constructivistas son posibles gracias a la actividad cognitiva del sujeto, cuya experiencia inmediata reconoce elementos de la experiencia pasada.
 
-El análisis es una herramienta muy importante para la orientación en el estudio cotidiano, lo que permite descubrir cada partitura. El desconocimiento de estos temas, el análisis como herramienta, en ocasiones carece de importancia para algunos docentes de instrumento, ya que argumentan que las estructuras y el análisis formal se alejan de la musicalidad.
+El estudio cotidiano basado en el aspecto analítico es exigente pero muy eficaz porque el alumno sabrá cómo quiere que suene su interpretación y cuál será el camino para conseguir su objetivo. Es decir que todos los conocimientos que posea el alumnado proveniente de la interrelación de asignaturas como lenguaje, análisis, historia, etc, le servirán como herramientas para el beneficio de su interpretación.
 
-Sin embargo hay grandes pedagogos e investigadores que opinan todo lo contrario.
-
-Gregorio Simkin \(1983\), es partidario del conocimiento armónico, contrapunto etc. Opina que facilita la labor creativa.
-
-Susanne Langer \(1966\), considera que el concepto forma equivale a estructura y al modo en que se reúne el conjunto. Al hablar de forma en la ejecución instrumental se refiere a cómo organizar temporalmente la sucesión de eventos que conforman una obra.
-
-Para Eleanor Stubley \(1992\) resulta necesario establecer estrategias metodológicas donde se exponga al alumnado a sus propias intenciones, las que configurarán la guía de posibles realizaciones. Para ella las interpretaciones constructivistas son posibles gracias a la actividad cognitiva del sujeto, cuya experiencia inmediata reconoce elementos de la experiencia pasada.
-
-El estudio cotidiano basado en el aspecto analítico es exigente pero muy eficaz porque el alumno sabrá cómo quiere que suene su interpretación y cuál será el camino para conseguir su objetivo.
-
-Es decir que todos los conocimientos que posea el alumno proveniente de la interrelación de asignaturas como lenguaje, análisis, historia, etc, le servirán como herramientas para el beneficio de su interpretación.
-
-MEMORIZACIÓN
+* #### Memorización
 
 El entrenamiento de la memoria a través de la reflexión, la meditación lógica y sistemática.
 
@@ -71,7 +59,7 @@ Cada alumno encontrará su ritual para concentrarse.
 
 El verdadero objetivo del profesor será el de ayudar al alumno a encontrar su ritual, proporcionarle las herramientas necesarias para encontrar su propia personalidad en el momento de interpretar una obra y pueda transmitir un mensaje.
 
-EDUCACIÓN AUDITIVA
+* #### Educación auditiva
 
 El entrenamiento auditivo, a través del canto y la asignatura lenguaje musical.
 
@@ -82,8 +70,6 @@ Dependiendo de la edad, madurez y nivel académico de los alumnos se realizan di
 Uno de los elementos importantes para el desarrollo auditivo, es la voz. En este aspecto es importante que el profesor indique al alumnado cómo realizar una emisión correcta de la voz cantada \(dependerá de la edad si son voces blancas, están en el cambio  de la voz por la pubertad, o ya se han desarrollado\). Sería necesario que el profesor tuviese unas nociones básicas sobre la colocación de la voz para evitar lesiones.
 
 Esas nociones básicas son:
-
-![](images/image6.png)
 
 Los ejercicios realizados con la guía del profesor harán que la tesitura se amplíe. Luego se incorporarán los matices para completar la superioridad vocal.
 
