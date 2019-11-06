@@ -8,11 +8,9 @@ Por eso los roles que tiene el profesor como evaluador es extraordinariamente de
 
 * **Rol evaluador**: La transformación de una actitud exigente en una actitud que propone, propicia, consulta, respeta y alienta, significa curar la exigencia. Se puede aprender a evaluar sin enjuiciar. Cuando el evaluador tiene cierta madurez,  busca la manera de ayudar a corregir los errores. Es bueno que el profesor distinga lo que no sirve de lo que no le gusta \(algo muy común en el campo instrumental\), que aprenda a evaluar sin enjuiciar algo que evalúa. Esto es importante para el crecimiento psicológico del profesorado y del alumnado. Si el profesor-evaluador descalifica permanentemente, eso inmoviliza, paraliza, no deja fluir, no deja mover al alumno, porque para poder moverse en la vida tiene que sentir un cierto respaldo. Y el alumno busca ese respaldo en la figura de su maestro.
 
-* ##### Audiciones y exámenes
+* ##### Audiciones 
 
-Una de las herramientas de evaluación que tiene el profesor de instrumento son las audiciones que se organizan en los conservatorios, además de los exámenes. La evaluación se restringe a la situación de estas presentaciones.
-
-El concierto, o audición no pone nota en ese momento \(aunque las audiciones muchas veces sirven de examen para el profesor\), pero es una situación evaluativa permanente.
+Una de las herramientas de evaluación que tiene el profesor de instrumento son las audiciones que se organizan en los conservatorios, además de los exámenes. La evaluación se restringe a la situación de estas presentaciones. El concierto, o audición no pone nota en ese momento \(aunque las audiciones muchas veces sirven de examen para el profesor\), pero es una situación evaluativa permanente.
 
 La preparación presenta diversas dificultades. En este momento es preciso indicar los diferentes aspectos que la constituyen.
 
@@ -21,6 +19,8 @@ Preparación física, racional y psicológica aunando todos los conceptos anteri
 En esas audiciones, presentaciones públicas y exámenes son la cima de la preparación en la que los alumnos se ven socialmente evaluados. Es importante tener conciencia  y comprender que la preparación psicológica requerida para estas situaciones de stress no se consigue de forma inmediata sino a través de un proceso, con el desarrollo de estas actividades y dedicar un tiempo de la clase a tal preparación.
 
 Psicológicamente no se pueden aplicar medidas generales ya que cada alumno se expresa de forma diferente y reacciona congruentemente. Hay alumnos que necesitan una alta dosis de autoestima, otros estudiar mucho más de lo que generalmente ejercitan y a otros les basta con una orientación básica por parte de sus profesores para enfrentar un examen o audición. \(Pignatelli, 2015\).
+
+* ##### Exámenes
 
 En cuanto a los exámenes, específicamente hay todo un sistema de funcionamiento educativo que lo sustenta. El resultado es la nota cuantitativa la cual formulará conclusiones acerca de la aptitud musical del alumno.
 

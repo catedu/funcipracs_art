@@ -17,6 +17,7 @@
       * [Educación auditiva](didactica_especifica/estudio_cotidiano/aspecto-analitico/educacion-auditiva.md)
     * [Aspecto Emocional](didactica_especifica/estudio_cotidiano/aspecto-emocional.md)
     * [Evaluación](didactica_especifica/estudio_cotidiano/evaluacion.md)
+      * [Herramientas de evaluación](didactica_especifica/estudio_cotidiano/evaluacion/herramientas-de-evaluacion.md)
   * [CONCLUSIÓN](didactica_especifica/conclusion.md)
   * [BIBLIOGRAFÍA](didactica_especifica/bibliografia.md)
 
