@@ -18,8 +18,9 @@
     * [Aspecto Emocional](didactica_especifica/estudio_cotidiano/aspecto-emocional.md)
     * [Evaluación](didactica_especifica/estudio_cotidiano/evaluacion.md)
       * [Herramientas de evaluación](didactica_especifica/estudio_cotidiano/evaluacion/herramientas-de-evaluacion.md)
-  * [CONCLUSIÓN](didactica_especifica/conclusion.md)
-  * [BIBLIOGRAFÍA](didactica_especifica/bibliografia.md)
+  * [Conclusión](didactica_especifica/conclusion.md)
+  * [Bibliografía](didactica_especifica/bibliografia.md)
+* [Créditos M1](creditos-m1.md)
 
 ## MÓDULO 2: Documentación educativa.
 
