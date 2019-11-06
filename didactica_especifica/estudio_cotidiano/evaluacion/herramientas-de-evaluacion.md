@@ -14,9 +14,7 @@ Es importante tener conciencia  y comprender que la **preparación psicológica 
 
 En cuanto a los exámenes, específicamente hay todo un sistema de funcionamiento educativo que lo sustenta. El resultado es la nota cuantitativa la cual formulará conclusiones acerca de la aptitud musical del alumno.
 
-La problemática está en que el alumno es juzgado y por esa razón, en ocasiones \(especialmente en los alumnos mayores\) prefieren descalificar al tribunal poniendo en duda su valía, como herramienta de defensa para no sentirse juzgados; entonces antes de ser rechazados, prefieren rechazar ellos.
-
-No siempre sucede esto, sino que muchos comprenden que es una parte del camino que hay que transitar y la aceptan sin cuestionamientos.
+La problemática está en que el alumno es juzgado y por esa razón, en ocasiones \(especialmente en los alumnos mayores\) prefieren descalificar al tribunal poniendo en duda su valía, como herramienta de defensa para no sentirse juzgados; entonces antes de ser rechazados, prefieren rechazar ellos. No siempre sucede esto, sino que muchos comprenden que es una parte del camino que hay que transitar y la aceptan sin cuestionamientos.
 
 Lo importante es que el profesor posea la experiencia y las herramientas necesarias para ayudar y guiar al alumno en dichas situaciones.
 
