@@ -12,7 +12,7 @@ Es el entrenamiento de la memoria a través de la reflexión, la meditación ló
 
 Para estos casos, en el estudio cotidiano de una partitura, se requiere un proceso de memorización con el tiempo necesario una vez que se hayan resuelto los aspectos técnicos y analíticos de la partitura a estudiar. La memoria es frágil y se debe entrenar como cualquier aspecto del estudio diario. La memorización comienza en el momento del estudio de una obra a través del análisis y el canto. Cantar en voz alta de las notas es de vital importancia. El proceso es lento pero otorga mucha seguridad al alumnado.
 
-Existen distintos tipos de memoria que se activan en el transcurso de una interpretación.
+Existen d**istintos tipos de memoria** que se activan en el transcurso de una interpretación.
 
 ![](/images/image8.png)
 
@@ -25,7 +25,11 @@ Existen distintos tipos de memoria que se activan en el transcurso de una interp
 
 Existe una posibilidad de** memorización sin instrumento**, en la que se activa la escucha interna, para ella se requiere una máxima concentración.
 
-Si el estudio cotidiano ha sido detallado, analizado y concienciado profundamente, la memorización será una consecuencia del mismo. De todos modos hay alumnos que requieren de estrategias para poder memorizar una partitura. Estas estrategias, guiadas por el profesor, otorgarán el resultado deseado al alumno.
+
+
+##### Estrategias para poder memorizar la partitura
+
+Si el estudio cotidiano ha sido detallado, analizado y concienciado profundamente, la memorización será una consecuencia del mismo. De todos modos hay alumnos que requieren de** estrategias para poder memorizar una partitura**. Estas estrategias, guiadas por el profesor, otorgarán el resultado deseado al alumno.
 
 ![](/images/image3.png)
 
