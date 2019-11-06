@@ -14,6 +14,7 @@
     * [Aspecto Técnico](didactica_especifica/estudio_cotidiano/aspecto-tecnico.md)
     * [Aspecto Analítico](didactica_especifica/estudio_cotidiano/aspecto-analitico.md)
       * [Memorización](didactica_especifica/estudio_cotidiano/aspecto-analitico/memorizacion.md)
+      * [Educación auditiva](didactica_especifica/estudio_cotidiano/aspecto-analitico/educacion-auditiva.md)
     * [Aspecto Emocional](didactica_especifica/estudio_cotidiano/aspecto-emocional.md)
     * [Evaluación](didactica_especifica/estudio_cotidiano/evaluacion.md)
   * [CONCLUSIÓN](didactica_especifica/conclusion.md)
