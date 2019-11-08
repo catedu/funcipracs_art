@@ -16,5 +16,5 @@ El profesorado irá realizando ejercicios con diferentes intervalos, primero sen
 
 En los conservatorios, el alumnado ingresa con una preparación previa, y la función del profesorado de lenguaje musical será la de corroborar si los alumnos tienen unas **buenas bases auditivo-musicales**. Cremers \(1924\), propone algunos ejercicios de “melodía expresiva” utilizando las cinco primeras notas de la escala diatónica y a continuación completada. Luego le incorpora el nombre de las notas, comenzando por la escala de Do.
 
-Sería conveniente que el profesorado esté al tanto de los **diferentes métodos **como **herramientas **para su utilización en las clases y lograr fácilmente los objetivos.
+Sería conveniente que el profesorado esté al tanto de los **diferentes métodos **como herramientas** **para su utilización en las clases y lograr fácilmente los objetivos.
 
