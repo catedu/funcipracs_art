@@ -2,7 +2,7 @@
 
 En este módulo de **Didáctica Específica** orientado hacia el profesorado en prácticas de música y artes escénicas, se pretende conectar la **formación instrumental con la pedagógica** y lograr una interacción entre **el lenguaje y la ejecución**.
 
-Existe una falencia entre la formación del alumnado como instrumentistas y su futura salida laboral como profesorado de conservatorios.
+Existe una falencia entre la formación del alumnado como instrumentista y su futura salida laboral como profesorado de conservatorios.
 
 La preparación del alumnado en dichos centros no está orientada hacia una labor pedagógica a pesar de que la mayoría se dedicarán a ejercer la docencia, al margen de tener una actividad concertística. \(Pignatelli, 2015\)
 
