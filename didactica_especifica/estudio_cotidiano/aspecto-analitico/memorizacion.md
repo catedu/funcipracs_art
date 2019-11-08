@@ -13,7 +13,7 @@ Existen d**istintos tipos de memoria** que se activan en el transcurso de una in
 * **Analítica**: se insiste sobre este aspecto que es una herramienta fundamental  ya que sirve de soporte para el resto de las memorias. Es la más sólida, ya que permite al alumnado la utilización de los conocimientos adquiridos en otras asignaturas y encontrar allí la correlación entre todas.
 * **Visual**: también llamada fotográfica, en la que el alumnado no solo hace una fotografía mental de la partitura sino también de la posición de sus manos en el instrumento.
 * **Verbal**: consiste en la verbalización de las notas mientras se ejecutan y otro ingrediente que ayuda es la memorización de las notas con ritmos que está fundamentada en el automatismo muscular.
-* Emocional: es donde se recoge la interpretación, es el último peldaño y la que determina la forma de comportamiento afectivo.
+* **Emocional:** es donde se recoge la interpretación, es el último peldaño y la que determina la forma de comportamiento afectivo.
 
 Existe una posibilidad de** memorización sin instrumento**, en la que se activa la escucha interna, para ella se requiere una máxima concentración.
 
