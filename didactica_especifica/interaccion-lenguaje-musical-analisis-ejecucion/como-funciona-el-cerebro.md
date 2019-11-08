@@ -1,3 +1,5 @@
+## ¿Cómo funciona el cerebro?
+
 #### Los hemisterios cerebrales
 
 Los hemisferios cerebrales están separados  por la cisura interhemisférica que contiene un pliegue meníngeo. Esta gran comisura es el cuerpo calloso que conecta ambos hemisferios a través de la línea media. El cuerpo calloso transfiere información de un hemisferio a otro, resulta muy importante para la discriminación, experiencia sensitiva y la memoria \(Snell, 1986\). Existe un segundo pliegue que separa los hemisferios del cerebelo que se denomina “tienda del cerebelo”. Para facilitar la descripción se suele dividir cada hemisferio en lóbulos que se denominan de acuerdo al hueso bajo el que se encuentra. Por ejemplo: las cisuras central o parietooccipital y las cisuras lateral y calcarina son los límites que se usan para la división del hemisferio cerebral en lóbulos frontal, parietal, temporal y occipital \(Snell, 1986\). A su vez cada hemisferio está cubierto por una sustancia gris llamada corteza cerebral.
