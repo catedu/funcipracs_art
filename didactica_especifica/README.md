@@ -2,21 +2,13 @@
 
 Es la **manera de enseñar**, es decir,  el tratamiento que se da a una determinada asignatura** para que el alumnado la asimile y elabore.**
 
-En la didáctica específica hay que **respetar el proceso de maduración del alumnado;** como es, y el propio ritmo de trabajo.
+En la didáctica específica hay que **respetar el proceso de maduración del alumnado;** como es y el propio ritmo de trabajo.
 
 El método lógico, se ajusta a las exigencias del orden de la asignatura a enseñar y  emplea los siguientes procedimientos:
 
-
-
-
-
 ![](/images/image10.png)
 
-
-
-
-
-Pero existe una diferencia entre el método lógico y la didáctica. 
+Pero existe una diferencia entre el método lógico y la didáctica.
 
 **La didáctica** orienta y regula el aprendizaje, atiende las necesidades psicológicas del alumnado.
 

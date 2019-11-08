@@ -21,7 +21,7 @@ En un principio** el alumnado** aprende imitando al profesorado, desde sus movim
 
 **La persona educadora** debe tener conocimientos sobre el instrumento del cual va a impartir las clases, tener la comprensión suficiente para ser consciente de la personalidad del alumnado, su predisposición para el estudio, su motivación y sus condiciones para el instrumento. Debe existir una comunicación entre la persona educadora y la persona a la que se educa, factor indispensable para que el proceso de enseñanza-aprendizaje se realice con éxito.
 
-**La asignatura **se encuentra inmersa dentro de un Currículo de grado y generalmente responde a una guía docente donde existen unas normas y contenidos a las que el profesorado debe sujetarse.
+**La asignatura **se encuentra inmersa dentro de un currículo de grado y generalmente responde a una guía docente donde existen unas normas y contenidos a las que el profesorado debe sujetarse.
 
 En cuanto a **la metodología**, por lo general en los conservatorios no existe una metodología específica instrumental sino que el profesroado se guía por sus propias experiencias de aprendizaje, o eventualmente se investiga sobre la pedagogía y la didáctica de su instrumento. Hay determinados instrumentos que poseen métodos para hacer escalas, arpegios, etc que son consultados por el profesorado, pero no siempre sucede así.
 
