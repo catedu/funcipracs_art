@@ -8,7 +8,7 @@ La Didáctica es la **disciplina pedagógica de carácter práctico y operativo*
 
 **1-Binomio humano:**
 
-* La persona a al que se educa: aprende \(factor decisivo\)
+* La persona a la que se educa: aprende \(factor decisivo\)
 * La persona educadora: enseña y orienta
 
 **2- Binomio cultural: **
