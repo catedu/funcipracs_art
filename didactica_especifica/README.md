@@ -12,7 +12,7 @@ Pero existen diferencias entre el método lógico y la didáctica.
 
 **La didáctica** orienta, regula el aprendizaje y atiende las necesidades psicológicas del alumnado con:
 
-* **Los recursos** necesarios son los instrumentos y resto de material de trabajo.
+* **Los recursos** necesarios como los instrumentos y resto de material de trabajo.
 * **Las técnicas** como la motivación, la comprobación del rendimiento mediante la evaluación y el trabajo en equipo profesorado-alumnado \(sociabilización\)
 * **El procedimiento**  a través de la ejecución, interpretación, demostración y explicación.
 
