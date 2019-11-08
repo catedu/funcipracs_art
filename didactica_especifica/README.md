@@ -1,6 +1,6 @@
 # Didáctica Específica {#did-ctica-espec-fica}
 
-Es la **manera de enseñar**, es decir,  el tratamiento que se da a una determinada asignatura** para que el alumnado la asimile y elabore.**
+Es la **manera de enseñar**, es decir,  el tratamiento que se da a una determinada asignatura** para que el alumnado la asimile y la elabore.**
 
 En la didáctica específica hay que **respetar el proceso de maduración del alumnado;** como es y el propio ritmo de trabajo.
 
