@@ -17,7 +17,7 @@ La Didáctica es la **disciplina pedagógica de carácter práctico y operativo*
 
 * El método: que favorece al aprendizaje
 
-En un principio** el alumnado** aprende imitando del profesorado, desde sus movimientos hasta en el sonido, dependiendo de la madurez del alumnado. Es decir,   comienza con un desarrollo psico-motriz, luego asimila los conocimientos que le otorga el profesorado mediante un aprendizaje significativo y por último utiliza las dos primeras fases para llegar a interpretar.
+En un principio** el alumnado** aprende imitando al profesorado, desde sus movimientos hasta en el sonido, dependiendo de la madurez del alumnado. Es decir,   comienza con un desarrollo psico-motriz, luego asimila los conocimientos que le otorga el profesorado mediante un aprendizaje significativo y por último utiliza las dos primeras fases para llegar a interpretar.
 
 **La persona educadora** debe tener conocimientos sobre el instrumento del cual va a impartir las clases, tener la comprensión suficiente para ser consciente de la personalidad del alumnado, su predisposición para el estudio, su motivación y sus condiciones para el instrumento. Debe existir una comunicación entre la persona educadora y la persona a al que se educa, factor indispensable para que el proceso de enseñanza-aprendizaje se realice con éxito.
 
