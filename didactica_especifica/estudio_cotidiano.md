@@ -4,7 +4,5 @@ Existen tres aspectos fundamentales en el estudio cotidiano desde el cual el alu
 
 ![](/images/image9.png)
 
-Y existen cuatro bases fundamentales para el estudio cotidiano de un instrumento:
-
-:![](/assets/import.png)
+Y existen cuatro bases fundamentales para el estudio cotidiano de un instrumento::![](/assets/import.png)
 
