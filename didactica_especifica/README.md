@@ -8,13 +8,13 @@ El método lógico se ajusta a las exigencias del orden de la asignatura a ense�
 
 ![](/images/image10.png)
 
-Pero existe una diferencia entre el método lógico y la didáctica.
+Pero existen diferencias entre el método lógico y la didáctica.
 
-**La didáctica** orienta y regula el aprendizaje, atiende las necesidades psicológicas del alumnado.
+**La didáctica** orienta, regula el aprendizaje y atiende las necesidades psicológicas del alumnado con:
 
 * **Los recursos** necesarios son los instrumentos y resto de material de trabajo.
-* **Las técnicas** son la motivación, la comprobación del rendimiento mediante la evaluación y el trabajo en equipo profesorado-alumnado \(sociabilización\)
-* **El procedimiento** es a través de la ejecución, interpretación, demostración y explicación.
+* **Las técnicas** como la motivación, la comprobación del rendimiento mediante la evaluación y el trabajo en equipo profesorado-alumnado \(sociabilización\)
+* **El procedimiento**  a través de la ejecución, interpretación, demostración y explicación.
 
 
 
