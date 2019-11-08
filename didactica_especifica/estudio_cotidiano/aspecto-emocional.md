@@ -6,7 +6,7 @@ Uno de los elementos principales dentro del esquema enseñanza-aprendizaje es la
 
 * ##### Proponer el interés por aprender
 
-El alumnado también tiene su función, y es la de **querer aprender** para que el proceso enseñanza-aprendizaje se lleve a cabo con éxito. Para conseguir una motivación constante intrínseca del alumnado, es decir, la que nace del alumno mismo por la tarea que realiza, la Didáctica sugiere incentivación del aprendizaje. La** incentivación del aprendizaje**  es la actuación externa e intencional del profesorado \(que no nace de la asignatura en sí misma sino del docente que estimula o del método que emplea\), para identificar el deseo de aprender, despertando constantemente el interés por hacerlo.
+El alumnado también tiene su función, y es la de **querer aprender** para que el proceso enseñanza-aprendizaje se lleve a cabo con éxito. Para conseguir una motivación constante intrínseca del alumnado, es decir la que nace del alumno mismo por la tarea que realiza, la Didáctica sugiere incentivación del aprendizaje. La** incentivación del aprendizaje**  es la actuación externa e intencional del profesorado \(que no nace de la asignatura en sí misma sino del docente que estimula o del método que emplea\), para identificar el deseo de aprender, despertando constantemente el interés por hacerlo.
 
 Cuando el alumno ingresa a un conservatorio establece un** contacto social de comunicación** con su entorno \(profesorado y alumnado\). Para lograr que la motivación se despierte  debe existir una relación entre profesorado y alumnado basada en el **respeto, la atención y la cordialidad**. El profesor de instrumento otorgará al alumnado las herramientas emocionales necesarias para su desarrollo musical. Esto se irá desarrollando con el paso del tiempo y la madurez del alumno.
 
@@ -14,7 +14,7 @@ Dentro del contexto académico musical existe la necesidad de perfeccionismo con
 
 * **La satisfacción por el cumplimiento de la tarea**
 
-El alumnado necesita  del profesorado en su estudio cotidiano **comunicación**, es decir,  ponerse de acuerdo para exigir en exceso. La exigencia en exceso  puede ser perjudicial para el alumno llevándolo a la saturación. Esa exigencia no permite el disfrute del alumno, sino que estudia para demostrar,  no para aprender.
+El alumnado necesita  del profesorado en su estudio cotidiano **comunicación**, es decir,  ponerse de acuerdo para no exigir en exceso. La exigencia en exceso  puede ser perjudicial para el alumnado ya que conduce a la saturación. Esa exigencia no permite el disfrute en el aprendizaje,  porque se estudia para demostrar.
 
 Los estados emocionales muchas veces se ven reflejados en la interpretación de los alumnos, pero en ocasiones existe un bloqueo que impide la comunicación en el discurso musical. El profesor Boris Berman \(2010\) propone un **ejercicio de flexibilidad emocional** para la interpretación de una obra y desbloquear esa situación.
 
@@ -31,5 +31,5 @@ Esto sirve para que el alumno libere sus emociones, y también significa que **l
 
 * ##### El gusto por el estudio
 
-Como consecuencia el alumnado debe sentirse participante para llegar a desarrollar una autonomía, para ello es necesario un diálogo democrático en clase de instrumento, en el grado que sea. Ese coloquio en parte es asimétrico ya que es el profesorado el que posee el conocimiento, pero eso no significa que el alumnado no pueda participar. Ese diálogo estará equiparado con la edad y madurez del alumno.
+Como consecuencia, el alumnado debe sentirse participante para llegar a desarrollar una autonomía, para ello es necesario un diálogo democrático en clase de instrumento, en el grado que sea. Ese coloquio en parte es asimétrico ya que es el profesorado el que posee el conocimiento, pero eso no significa que el alumnado no pueda participar. Ese diálogo estará equiparado con la edad y madurez del alumno.
 
