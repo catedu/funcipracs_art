@@ -2,7 +2,7 @@
 
 Al abordar el estudio de una partitura, el alumnado se enfrenta a nuevos retos. La técnica le sirve como herramienta para expresar sus emociones. Mejorar su capacidad técnica le servirá para crear y no para impresionar con el virtuosismo.
 
-Desde la corteza cerebral se controla el movimiento de las manos y es allí donde quedan grabadas las partituras, como conexiones neuronales.
+Desde la corteza cerebral se controla el movimiento de las manos y es allí donde quedan grabadas las partituras como conexiones neuronales.
 
 Como indica Despins \(1989:96\), puede afirmar que “la integración favorable de las funciones de cada hemisferio desempeña una posición clave en la elaboración de los procesos que permiten una adaptación a las exigencias…” Es decir que cuando un alumno hace una interpretación instrumental debe establecer un equilibrio dinámico entre la interpretación llevada a cabo por el hemisferio derecho, mientras utiliza sus recursos técnicos a través del hemisferio izquierdo.
 
