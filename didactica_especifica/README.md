@@ -4,7 +4,7 @@ Es la **manera de enseñar**, es decir,  el tratamiento que se da a una determin
 
 En la didáctica específica hay que **respetar el proceso de maduración del alumnado;** como es y el propio ritmo de trabajo.
 
-El método lógico, se ajusta a las exigencias del orden de la asignatura a enseñar y  emplea los siguientes procedimientos:
+El método lógico se ajusta a las exigencias del orden de la asignatura a enseñar y  emplea los siguientes procedimientos:
 
 ![](/images/image10.png)
 
