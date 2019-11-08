@@ -2,7 +2,7 @@
 
 El entrenamiento auditivo se realiza  a través del **canto **y la asignatura **lenguaje musical.**
 
-La educación auditiva tiene como objetivo  desarrollar el oído del  alumnado, tanto la **audición interna **como la **externa**. Ese desarrollo se realizará a lo largo del estudio académico para llegar a alcanzar esa **audición interna**, tanto **armónica** como **polifónica,** en las partituras que estudie. Dependiendo de la edad, madurez y nivel académico del alumnado se realizan diferentes ejercicios.
+La educación auditiva tiene como objetivo  desarrollar el oído del  alumnado, tanto la **audición interna **como la **externa**. Ese desarrollo se realizará a lo largo del estudio académico para llegar a alcanzar esa audición interna, tanto **armónica** como **polifónica,** en las partituras que estudie. Dependiendo de la edad, madurez y nivel académico del alumnado se realizan diferentes ejercicios.
 
 Uno de los **elementos importantes** para el desarrollo auditivo es **la voz**. En este aspecto es importante que el profesor indique al alumnado cómo realizar una **emisión correcta de la voz cantada **\(dependerá de la edad si son voces blancas, están en el cambio  de la voz por la pubertad, o ya se han desarrollado\). Sería necesario que el profesor tuviese unas nociones básicas sobre la colocación de la voz para evitar lesiones.
 
