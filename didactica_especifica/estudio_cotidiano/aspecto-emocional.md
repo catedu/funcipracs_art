@@ -1,10 +1,8 @@
 ### Aspecto Emocional {#aspecto-emocional}
 
-Uno de los elementos principales dentro del esquema enseñanza-aprendizaje es la motivación. **La motivación** incita a aprender al alumno, quien aprende lo que realmente le interesa. Motivar es irrumpir en el psiquismo las fuentes de energía interior y encauzarlo. Dentro de la enseñanza, la función pedagógica  es la de crear las condiciones psicológicas y ambientales para que la motivación se logre. Motivar es despertar  en el alumnado el interés, la atención  y los valores contenidos en las asignaturas.
+Uno de los elementos principales dentro del esquema enseñanza-aprendizaje es la motivación. **La motivación** incita al alumnado a aprender,  aprendiendo lo que realmente le interesa. Motivar es irrumpir en el psiquismo las fuentes de energía interior y encauzarla. Dentro de la enseñanza, la función pedagógica  es la de crear las condiciones psicológicas y ambientales para que la motivación se logre. Es despertar  en el alumnado el interés, la atención  y los valores contenidos en las asignaturas.
 
 ![](/images/image7.png)
-
-
 
 * ##### Proponer el interés por aprender
 
