@@ -6,7 +6,7 @@ El análisis es una herramienta muy importante para la orientación en el estudi
 
 El estudio cotidiano basado en el aspecto analítico es exigente pero muy eficaz porque el alumno sabrá cómo quiere que suene su interpretación y cuál será el camino para conseguir su objetivo. Es decir que todos los conocimientos que posea el alumnado proveniente de la interrelación de asignaturas como lenguaje, análisis, historia, etc, le servirán como herramientas para el beneficio de su interpretación.
 
-* #### 
+#### 
 
 
 
