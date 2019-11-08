@@ -6,9 +6,9 @@ La educación auditiva tiene como objetivo  desarrollar el oído del  alumnado, 
 
 Uno de los elementos importantes para el desarrollo auditivo es la voz. En este aspecto es importante que el profesor indique al alumnado cómo realizar una **emisión correcta de la voz cantada **\(dependerá de la edad si son voces blancas, están en el cambio  de la voz por la pubertad, o ya se han desarrollado\). Sería necesario que el profesor tuviese unas nociones básicas sobre la colocación de la voz para evitar lesiones.
 
-Esas** nociones básicas **son:
+Esas** **nociones básicas** **son:
 
-* Los **ejercicios **realizados con la guía del profesor harán que la** tesitura se amplíe**. Luego se incorporarán los matices para completar la superioridad vocal.
+* Los ejercicios** **realizados con la guía del profesor harán que la** tesitura se amplíe**. Luego se incorporarán los matices para completar la superioridad vocal.
 * Para el estudio de los **intervalos melódicos**, generalmente se recurre a comienzo de canciones infantiles.
 * Para la educación auditiva de los **intervalos armónicos **se ejercita la percepción simultánea. Willems \(2001\)  plantea cómo lograr que el alumno reconozca un intervalo armónico a través de un ejercicio sencillo. “En un armonio o una trompeta – la trompeta capta mejor la atención del alumno -  toquemos un sonido que el niño deberá cantar. Sin dejar ese sonido, toquemos un segundo sonido que el niño cantará también, luego toquemos un tercero sin dejar los dos anteriores. Todo ello primero en sentido ascendente y, luego descendente”. \(Willems, 2001: 150\)
 
