@@ -2,7 +2,7 @@
 
 Es el entrenamiento de la memoria a través de la reflexión, la meditación lógica y sistemática. La memorización es una función psíquica por la que almacenamos información y para que ésta no decaiga se requiere la repetición. El hecho de memorizar depende del instrumento y de la situación. Para tocar como integrantes de un grupo de cámara o en una banda u orquesta sinfónica no se requiere la memorización. Pero hay momentos en que los instrumentistas se ven obligados a tocar de memoria de acuerdo a las circunstancias, como por ejemplo como solistas.
 
-Para estos casos, en el estudio cotidiano de una partitura, se requiere un proceso de memorización con el tiempo necesario una vez que se hayan resuelto los aspectos técnicos y analíticos de la partitura a estudiar. La memoria es frágil y se debe entrenar como cualquier aspecto del estudio diario. La memorización comienza en el momento del estudio de una obra a través del análisis y el canto. Cantar en voz alta de las notas es de vital importancia. El proceso es lento pero otorga mucha seguridad al alumnado.
+Para estos casos, en el estudio cotidiano de una partitura, se requiere un proceso de memorización con el tiempo necesario una vez que se hayan resuelto los aspectos técnicos y analíticos de la partitura a estudiar. La memoria es frágil y se debe entrenar como cualquier aspecto del estudio diario. La memorización comienza en el momento del estudio de una obra a través del análisis y el canto. Cantar en voz alta  las notas es de vital importancia. El proceso es lento pero otorga mucha seguridad al alumnado.
 
 Existen d**istintos tipos de memoria** que se activan en el transcurso de una interpretación.
 
