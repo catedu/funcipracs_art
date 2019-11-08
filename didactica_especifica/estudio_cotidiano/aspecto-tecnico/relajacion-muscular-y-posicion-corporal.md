@@ -1,4 +1,4 @@
-#### Relajación muscular
+### Relajación muscular
 
 Es el entrenamiento de la relajación de los músculos para poder ejecutar e interpretar con naturalidad.
 
@@ -6,7 +6,7 @@ Aprender a relajar los músculos que no se utilizan y usar solamente los necesar
 
 El aspecto técnico es el primer peldaño determinante para llegar a alcanzar el éxito y la seguridad deseados. El desarrollo de las habilidades es importante para poder interpretar con libertad sin temor a errores. La base de una buena preparación instrumental comienza con una buena técnica en la que el alumno pueda sentirse seguro y sea consciente de la utilización de sus músculos y cómo controlarlos.
 
-#### Posición corporal
+### Posición corporal
 
 La posición del cuerpo, algo que debería ser prioritario en cuanto la atención por parte del profesorado de instrumento, ya que es allí donde se pueden generar futuros problemas musculares o tensiones.
 
