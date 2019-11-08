@@ -13,7 +13,5 @@ De acuerdo al esquema anterior se analizarán los diferentes contenidos:
 * El desarrollo de las habilidades a través del desarrollo psico-motor.
 * El análisis para estimular la interpretación musical y conectar las diferentes funciones musicales.
 
-Primeramente, para ejercer una labor docente pedagógico-didáctico correcta, debemos saber ¿cómo funciona el cerebro?
-
-
+Primeramente, para ejercer una labor docente pedagógico-didáctico correcta, debemos saber cómo funciona el cerebro.
 
