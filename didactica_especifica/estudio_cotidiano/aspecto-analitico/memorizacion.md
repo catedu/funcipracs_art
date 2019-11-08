@@ -17,7 +17,7 @@ Existen d**istintos tipos de memoria** que se activan en el transcurso de una in
 
 Existe una posibilidad de** memorización sin instrumento**, en la que se activa la escucha interna, para ella se requiere una máxima concentración.
 
-##### Estrategias para poder memorizar la partitura
+#### Estrategias para  memorizar la partitura
 
 Si el estudio cotidiano ha sido detallado, analizado y concienciado profundamente, la memorización será una consecuencia del mismo. De todos modos hay alumnos que requieren de** estrategias para poder memorizar una partitura**. Estas estrategias, guiadas por el profesor, otorgarán el resultado deseado al alumno.
 

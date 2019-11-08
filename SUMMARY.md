@@ -16,6 +16,7 @@
       * [Relajación muscular y posición corporal](didactica_especifica/estudio_cotidiano/aspecto-tecnico/relajacion-muscular-y-posicion-corporal.md)
     * [Aspecto Analítico](didactica_especifica/estudio_cotidiano/aspecto-analitico.md)
       * [Memorización](didactica_especifica/estudio_cotidiano/aspecto-analitico/memorizacion.md)
+        * [Estrategias para memoraizar la partitura](didactica_especifica/estudio_cotidiano/aspecto-analitico/memorizacion/estrategias-para-memoraizar-la-partitura.md)
       * [Educación auditiva](didactica_especifica/estudio_cotidiano/aspecto-analitico/educacion-auditiva.md)
     * [Aspecto Emocional](didactica_especifica/estudio_cotidiano/aspecto-emocional.md)
     * [Evaluación](didactica_especifica/estudio_cotidiano/evaluacion.md)
