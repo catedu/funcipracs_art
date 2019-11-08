@@ -10,7 +10,7 @@ Estas** fases son comunes** a todos los procesos de aprendizaje y su **relación
 
 ![](/images/image4.png)
 
-1-   **Globalización**: Contacto global con el objeto,  percepción inicial y exclusión de los componentes. ontacto con la partitura a estudiar.
+1-   **Globalización**: Contacto global con el objeto,  percepción inicial y exclusión de los componentes. Contacto con la partitura a estudiar.
 
 2-   **Diferenciación:** Proceso de investigación: El objeto se hace claro por análisis, es decir, se descompone en partes. El análisis es una etapa interior, diferenciación. Análisis de la partitura.
 
