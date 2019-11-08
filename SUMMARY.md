@@ -10,6 +10,7 @@
   * [Aprendizaje](didactica_especifica/aprendizaje.md)
   * [Interacción lenguaje musical-análisis-ejecución](didactica_especifica/interaccion-lenguaje-musical-analisis-ejecucion.md)
     * [¿Cómo funciona el cerebro?](didactica_especifica/interaccion-lenguaje-musical-analisis-ejecucion/como-funciona-el-cerebro.md)
+      * [Adquisición de habilidades musicales](didactica_especifica/interaccion-lenguaje-musical-analisis-ejecucion/como-funciona-el-cerebro/adquisicion-de-habilidades-musicales.md)
   * [Estudio Cotidiano](didactica_especifica/estudio_cotidiano.md)
     * [Aspecto Técnico](didactica_especifica/estudio_cotidiano/aspecto-tecnico.md)
     * [Aspecto Analítico](didactica_especifica/estudio_cotidiano/aspecto-analitico.md)
