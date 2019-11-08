@@ -13,6 +13,7 @@
       * [Adquisición de habilidades musicales](didactica_especifica/interaccion-lenguaje-musical-analisis-ejecucion/como-funciona-el-cerebro/adquisicion-de-habilidades-musicales.md)
   * [Estudio Cotidiano](didactica_especifica/estudio_cotidiano.md)
     * [Aspecto Técnico](didactica_especifica/estudio_cotidiano/aspecto-tecnico.md)
+      * [Relajación muscular y posición corporal](didactica_especifica/estudio_cotidiano/aspecto-tecnico/relajacion-muscular-y-posicion-corporal.md)
     * [Aspecto Analítico](didactica_especifica/estudio_cotidiano/aspecto-analitico.md)
       * [Memorización](didactica_especifica/estudio_cotidiano/aspecto-analitico/memorizacion.md)
       * [Educación auditiva](didactica_especifica/estudio_cotidiano/aspecto-analitico/educacion-auditiva.md)
