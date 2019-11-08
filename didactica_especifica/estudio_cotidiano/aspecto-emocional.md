@@ -31,5 +31,5 @@ Esto sirve para que el alumno libere sus emociones, y también significa que **l
 
 * ##### El gusto por el estudio
 
-Como consecuencia, el alumnado debe sentirse participante para llegar a desarrollar una autonomía, para ello es necesario un diálogo democrático en clase de instrumento, en el grado que sea. Ese coloquio en parte es asimétrico ya que es el profesorado el que posee el conocimiento, pero eso no significa que el alumnado no pueda participar. Ese diálogo estará equiparado con la edad y madurez del alumno.
+Como consecuencia, el alumnado debe sentirse participe del proceso para llegar a desarrollar una autonomía, para ello es necesario un diálogo democrático en clase de instrumento, en el grado que sea. Ese coloquio en parte es asimétrico ya que es el profesorado es el que posee el conocimiento, pero eso no significa que el alumnado no pueda participar. Ese diálogo estará equiparado con la edad y madurez del alumno.
 
