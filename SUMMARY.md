@@ -63,7 +63,7 @@
 
 ## MÓDULO 4: Prevención de Riesgos Laborales del personal docente en Aragón.
 
-* [Conceptos generales](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales.md)
+* Conceptos generales
   * [Trabajo y salud. La paradoja del trabajo y la salud](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/trabajo-y-salud-la-paradoja-del-trabajo-y-la-salud.md)
   * [Riesgo y daño. Prevención y protección](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/riesgo-y-dano-prevencion-y-proteccion.md)
   * [Derechos y deberes de los docentes en materia de prevención de riesgos](modulo-4-prevencion-de-riesgos-laborales-del-personal-docente-en-aragon/conceptos-generales/derechos-y-deberes-de-los-docentes-en-materia-de-prevencion-de-riesgos.md)
