@@ -1,1 +1,55 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Curso para funcionariado en prácticas (0594)", "author": "Varios autores", "collaborators": [{"name": "Liliana Pignatelli", "edited": ""}, {"name": "María Lourdes Alcalá Ibañez", "edited": "Módulo 2"}, {"name": "Sergio Duce Sesé, Alicia Marín Mormeneo, Isabel Tolosana Sánchez, Marco de Pablo Martínez", "edited": "Módulo 3"}, {"name": "Joaquín Conejo Fumanal", "edited": "Módulo 4"}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/funcipracs_art/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "funcipracs_0597"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Curso para funcionariado en prácticas (0594)",
+    "author": "Varios autores",
+    "collaborators": [
+      {
+        "name": "Liliana Pignatelli",
+        "edited": ""
+      },
+      {
+        "name": "María Lourdes Alcalá Ibañez",
+        "edited": "Módulo 2"
+      },
+      {
+        "name": "Sergio Duce Sesé, Alicia Marín Mormeneo, Isabel Tolosana Sánchez, Marco de Pablo Martínez",
+        "edited": "Módulo 3"
+      },
+      {
+        "name": "Joaquín Conejo Fumanal",
+        "edited": "Módulo 4"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/funcipracs_art/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "funcipracs_0597"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
